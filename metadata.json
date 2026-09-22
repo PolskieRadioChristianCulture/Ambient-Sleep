@@ -1,0 +1,6 @@
+{
+  "name": "Ambient Sleep",
+  "description": "Modern, lightweight ambient sleep sound mixer with beautiful vertical channel sliding controllers, responsive soundwave visualizers, and customized 10H YouTube relaxations by Christian Culture Network.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ambient Sleep</string>
+
+    <!-- Branding & Logo -->
+    <string name="logo_ambient">AMBIENT</string>
+    <string name="logo_sleep">SLEEP</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_library">Library</string>
+    <string name="nav_mixer">Mixer</string>
+    <string name="nav_player">Player</string>
+    <string name="nav_videos">Videos</string>
+
+    <!-- Hero Section -->
+    <string name="hero_title">Find Your Perfect\nSleep Environment</string>
+    <string name="hero_desc">Experience deep relaxation with our curated library of white, pink, and brown noises, binaural beats, and immersive ambient music, crafted for tranquil nights.</string>
+    <string name="hero_btn_pause">PAUSE AMBIENT</string>
+    <string name="hero_btn_start">START LISTENING FREE</string>
+    <string name="badge_play_store_prefix">GET IT ON</string>
+    <string name="badge_app_store_prefix">Download on the</string>
+    <string name="download_now">RADIO CC</string>
+
+    <!-- Onboarding Overlay -->
+    <string name="onboarding_welcome">Welcome to Oasis of Calm</string>
+    <string name="onboarding_desc">Configure your perfect sleep environment powered by the Christian Culture Network platform.</string>
+    <string name="onboarding_section_goal">CHOOSE YOUR GOAL FOR TODAY</string>
+    <string name="onboarding_goal_god">Peaceful sleep with God</string>
+    <string name="onboarding_goal_noise">Deep brown noise</string>
+    <string name="onboarding_goal_insomnia">Battle with Insomnia</string>
+    <string name="onboarding_goal_student">Student Calming</string>
+    <string name="onboarding_section_time">TARGET RELAXATION TIME</string>
+    <string name="onboarding_hours_suffix">%1$d Hours</string>
+    <string name="onboarding_btn_start">START LISTENING</string>
+    <string name="onboarding_welcome_toast">Welcome! Goal: %1$s. Session started.</string>
+
+    <!-- Discover Section -->
+    <string name="discover_title">DISCOVER OUR UNIQUE SOUNDS</string>
+    <string name="discover_show_all">Show All</string>
+    <string name="discover_info">Enjoy free ambient. Tap a card to play or adjust the volume bar directly inside the tiles.</string>
+
+    <!-- Sounds List -->
+    <string name="sound_white_noise_title">Deep White Noise</string>
+    <string name="sound_white_noise_desc">Isochronic tones for deep rest.</string>
+    <string name="sound_rain_title">Rainfall on Glass</string>
+    <string name="sound_rain_desc">Cozy rainfall on bedroom window panes.</string>
+    <string name="sound_fireplace_title">Crackling Fireplace</string>
+    <string name="sound_fireplace_desc">Warm comfort of relaxing bonfire logs.</string>
+    <string name="sound_pad_title">Calming Pad (CCN)</string>
+    <string name="sound_pad_desc">Distant cinematic atmospheres of mountain mist.</string>
+
+    <!-- Binaural Waves Premium -->
+    <string name="binaural_title_delta">Binaural Delta Waves</string>
+    <string name="binaural_desc_delta">Deep relaxation resonance waves (Premium option).</string>
+    <string name="binaural_premium_locked">Binaural waves belong to the Premium package. Activate 24H below!</string>
+    <string name="binaural_card_title">PREMIUM BINAURAL WAVES (BETA)</string>
+    <string name="binaural_card_desc">They have a calming effect on brain waves. Unlock access for 24 hours with secure Spark ads.</string>
+    <string name="binaural_lock_header">Delta and Theta Binaural Waves</string>
+    <string name="binaural_lock_desc">Calming stimulation. Watch a short ad to unlock everything for 24h.</string>
+    <string name="binaural_btn_unlock">UNLOCK ALL FOR 24H (AD)</string>
+    <string name="binaural_active_header">Binaural waves active</string>
+    <string name="binaural_active_until">Unlocked until: %1$s</string>
+    <string name="binaural_btn_off">Disabled</string>
+    <string name="binaural_btn_delta">Delta Waves (3Hz)</string>
+    <string name="binaural_btn_theta">Theta Waves (6Hz)</string>
+    <string name="loading_ad">Loading premium ad...</string>
+    <string name="ad_reward_earned">Premium unlocked for 24h!</string>
+
+    <!-- Mixer Section -->
+    <string name="mixer_title">YOUR PERSONAL SOUND MIXER</string>
+    <string name="mixer_teaser">Create custom sleep atmospheres by combining continuous white noise, rain on roofs, natural fireplace and cinematic pads.</string>
+    <string name="mixer_desc">Create custom sleep atmospheres. Precise adjustments and real-time feedback.</string>
+    <string name="mixer_label_white_noise">White Noise</string>
+    <string name="mixer_label_rain">Rain</string>
+    <string name="mixer_label_pad">Ambient Pad</string>
+    <string name="mixer_label_fireplace">Fireplace</string>
+
+    <!-- Player Screen -->
+    <string name="player_title">IMMERSIVE SLEEP PLAYER</string>
+    <string name="player_no_tracks">No tracks engaged. Head to Mixer or Library!</string>
+    <string name="player_active_ambient">ENGAGED AMBIENT ATMOSPHERE</string>
+    <string name="player_standby_ambient">AMBIENT ON STANDBY</string>
+    <string name="player_timer_title">SLEEP TIMER REGULATION</string>
+    <string name="player_timer_off">Off</string>
+
+    <!-- Extra Screen / YouTube -->
+    <string name="yt_section_title">EXTENDED SESSIONS ON YOUTUBE</string>
+    <string name="yt_section_desc">10-hour movie sessions from Christian Culture Network available directly on the video platform.</string>
+    <string name="yt_btn_watch">WATCH ON YOUTUBE CHANNEL</string>
+    <string name="youtube_card_sessions">10-Hour Sessions</string>
+    <string name="yt_session_1_title">10 Hours - Deep Brown Noise</string>
+    <string name="yt_session_1_desc">Relaxing calming base</string>
+    <string name="yt_session_2_title">10 Hours - Rain on Window &amp; Storm</string>
+    <string name="yt_session_2_desc">Mind clearing waves</string>
+    <string name="yt_session_3_title">10 Hours - Fireplace in a Luxury Cabin</string>
+    <string name="yt_session_3_desc">Cozy warm microclimate</string>
+    <string name="yt_session_4_title">10 Hours - Cosmic Solar Pad Ambient</string>
+    <string name="yt_session_4_desc">Spiritual atmosphere and zen sleep</string>
+
+    <!-- Radio CC Integration -->
+    <string name="listen_radio_cc">Listen: Radio CC</string>
+    <string name="listen_radio_cc_desc">Discover beautiful live streams, Christian podcasts, and deep reflections on the go.</string>
+
+    <!-- Policies & Credits -->
+    <string name="sabbath_policy_title">Local-First Policy &amp; Sabbath CC</string>
+    <string name="sabbath_policy_desc">The Ambient Sleep application respects the principles of the Christian Culture Network. All data remains exclusively in the SharedPreferences of your mobile device. AdMob advertising features are disabled during the Sabbath (from sunset on Friday to sunset on Saturday).</string>
+    <string name="credits_text">Contact: nazirczarkes@gmail.com | Architect and developer: NAZIR</string>
+    <string name="toast_no_browser">No web browser found to open link</string>
+    <string name="toast_no_link_open">Could not open web page</string>
+</resources>

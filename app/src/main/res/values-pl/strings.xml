@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ambient Sleep</string>
+
+    <!-- Branding & Logo -->
+    <string name="logo_ambient">AMBIENT</string>
+    <string name="logo_sleep">SLEEP</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">Główna</string>
+    <string name="nav_library">Biblioteka</string>
+    <string name="nav_mixer">Mikser</string>
+    <string name="nav_player">Odtwarzacz</string>
+    <string name="nav_videos">Wideo</string>
+
+    <!-- Hero Section -->
+    <string name="hero_title">Znajdź Swoje Idealne\nŚrodowisko Snu</string>
+    <string name="hero_desc">Doświadcz głębokiego relaksu dzięki naszej starannie dobranej bibliotece białych, różowych i brązowych szumów, fal binauralnych oraz wyciszającej muzyki ambientowej na spokojne noce.</string>
+    <string name="hero_btn_pause">PAUZA</string>
+    <string name="hero_btn_start">SŁUCHAJ ZA DARMO</string>
+    <string name="badge_play_store_prefix">POBIERZ Z</string>
+    <string name="badge_app_store_prefix">Pobierz w</string>
+    <string name="download_now">RADIO CC</string>
+
+    <!-- Onboarding Overlay -->
+    <string name="onboarding_welcome">Witaj w Oazie Spokoju</string>
+    <string name="onboarding_desc">Skonfiguruj swoje idealne środowisko snu z polskiej platformy Christian Culture Network.</string>
+    <string name="onboarding_section_goal">WYBIERZ SWÓJ CEL NA DZIŚ</string>
+    <string name="onboarding_goal_god">Spokojny sen z Bogiem</string>
+    <string name="onboarding_goal_noise">Głęboki uuu-szum</string>
+    <string name="onboarding_goal_insomnia">Walka z Bezsennością</string>
+    <string name="onboarding_goal_student">Studenckie Wyciszenie</string>
+    <string name="onboarding_section_time">DOCELOWY CZAS RELAKSU</string>
+    <string name="onboarding_hours_suffix">%1$d Godzin</string>
+    <string name="onboarding_btn_start">ZACZNIJ SŁUCHANIE</string>
+    <string name="onboarding_welcome_toast">Witamy! Cel: %1$s. Rozpoczęto sesję.</string>
+
+    <!-- Discover Section -->
+    <string name="discover_title">ODKRYJ NASZE UNIKALNE DŹWIĘKI</string>
+    <string name="discover_show_all">Pokaż wszystkie</string>
+    <string name="discover_info">Ciesz się bezpłatnym ambientem. Stuknij kartę by odtworzyć lub wyreguluj pasek głośności bezpośrednio w kafelkach.</string>
+
+    <!-- Sounds List -->
+    <string name="sound_white_noise_title">Głęboki Biały Szum</string>
+    <string name="sound_white_noise_desc">Dźwięki izochroniczne na głęboki sen.</string>
+    <string name="sound_rain_title">Deszcz na Szybie</string>
+    <string name="sound_rain_desc">Klimatyczny deszcz na okno sypialni.</string>
+    <string name="sound_fireplace_title">Trzeszczący Kominek</string>
+    <string name="sound_fireplace_desc">Ciepły relaks przy płonących polanach.</string>
+    <string name="sound_pad_title">Wyciszający Pad (CCN)</string>
+    <string name="sound_pad_desc">Odległe kinowe klimaty górskiej mgły.</string>
+
+    <!-- Binaural Waves Premium -->
+    <string name="binaural_title_delta">Binauralne Fale Delta</string>
+    <string name="binaural_desc_delta">Fale rezonansowe głębokiego relaksu (Premium).</string>
+    <string name="binaural_premium_locked">Binauralne fale należą do pakietu Premium. Aktywuj 24H poniżej!</string>
+    <string name="binaural_card_title">BINAURALNE FALE PREMIUM (BETA)</string>
+    <string name="binaural_card_desc">Wpływają uspokajająco na fale mózgowe. Odblokuj dostęp na 24 godziny bezpiecznymi reklamami Spark.</string>
+    <string name="binaural_lock_header">Binauralne fale Delta i Theta</string>
+    <string name="binaural_lock_desc">Uspokajająca stymulacja. Obejrzyj krótką reklamę by odblokować całość na 24h.</string>
+    <string name="binaural_btn_unlock">ODBLOKUJ CAŁOŚĆ NA 24H (AD)</string>
+    <string name="binaural_active_header">Binauralne fale aktywne</string>
+    <string name="binaural_active_until">Odblokowano do: %1$s</string>
+    <string name="binaural_btn_off">Wyłączone</string>
+    <string name="binaural_btn_delta">Fale Delta (3Hz)</string>
+    <string name="binaural_btn_theta">Fale Theta (6Hz)</string>
+    <string name="loading_ad">Wczytywanie reklamy premium...</string>
+    <string name="ad_reward_earned">Premium odblokowane na 24h!</string>
+
+    <!-- Mixer Section -->
+    <string name="mixer_title">TWÓJ OSOBISTY MIKSER DŹWIĘKÓW</string>
+    <string name="mixer_teaser">Twórz unikalne kompozycje, łącząc ciągły biały szum, deszcz na dachu, naturalny kominek i kinowe tła dźwiękowe.</string>
+    <string name="mixer_desc">Stwórz idealny chrześcijański mikroklimat sypialni. Precyzyjna regulacja i feedback w czasie rzeczywistym.</string>
+    <string name="mixer_label_white_noise">Biały Szum</string>
+    <string name="mixer_label_rain">Deszcz</string>
+    <string name="mixer_label_pad">Pad Ambient</string>
+    <string name="mixer_label_fireplace">Kominek</string>
+
+    <!-- Player Screen -->
+    <string name="player_title">IMERSYJNY ODTWARZACZ SNU</string>
+    <string name="player_no_tracks">Brak aktywnych ścieżek. Przejdź do Miksera lub Biblioteki!</string>
+    <string name="player_active_ambient">AKTYWNA ATMOSFERA AMBIENTOWA</string>
+    <string name="player_standby_ambient">AMBIENT W TRYBIE CZUWANIA</string>
+    <string name="player_timer_title">REGULACJA WYŁĄCZNIKA CZASOWEGO</string>
+    <string name="player_timer_off">Wył.</string>
+
+    <!-- Extra Screen / YouTube -->
+    <string name="yt_section_title">SESJE ROZSZERZONE NA YOUTUBE</string>
+    <string name="yt_section_desc">10-godzinne sesje filmowe Christian Culture Network dostępne bezpośrednio na platformie wideo.</string>
+    <string name="yt_btn_watch">SŁUCHAJ NA KANALE YOUTUBE</string>
+    <string name="youtube_card_sessions">Sesje 10-godzinne</string>
+    <string name="yt_session_1_title">10 Godzin - Głęboki Brązowy Szum</string>
+    <string name="yt_session_1_desc">Baza wyciszająca</string>
+    <string name="yt_session_2_title">10 Godzin - Deszcz na Szybie &amp; Burza</string>
+    <string name="yt_session_2_desc">Czyszczenie umysłu</string>
+    <string name="yt_session_3_title">10 Godzin - Kominek w Luksusowej Chacie</string>
+    <string name="yt_session_3_desc">Ciepły mikroklimat</string>
+    <string name="yt_session_4_title">10 Godzin - Kosmiczny Pad Solarny Ambient</string>
+    <string name="yt_session_4_desc">Atmosfera duchowa i sen</string>
+
+    <!-- Radio CC Integration -->
+    <string name="listen_radio_cc">Słuchaj: Radio CC</string>
+    <string name="listen_radio_cc_desc">Odkryj najlepsze audycje radiowe na żywo, chrześcijańskie podcasty i głębokie rozważania.</string>
+
+    <!-- Policies & Credits -->
+    <string name="sabbath_policy_title">Polityka Local-First i Sabat CC</string>
+    <string name="sabbath_policy_desc">Aplikacja Ambient Sleep przestrzega zasad Christian Culture Network. Wszystkie dane pozostają wyłącznie w SharedPreferences Twojego urządzenia mobilnego. Funkcje reklamowe AdMob są nieaktywne w porze Sabatu (od zachodu słońca w piątek do zachodu słońca w sobotę).</string>
+    <string name="credits_text">Kontakt: nazirczarkes@gmail.com | Architekt i programista: NAZIR</string>
+    <string name="toast_no_browser">Brak przeglądarki do otwarcia linku</string>
+    <string name="toast_no_link_open">Nie można otworzyć strony</string>
+</resources>
